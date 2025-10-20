@@ -66,19 +66,11 @@
 //     </>
 //   );
 // };
+
+
 "use client";
 
-
-
-export function Button({
-  // ... rest of code
-import {
-  motion,
-  useAnimationFrame,
-  useMotionTemplate,
-  useMotionValue,
-  useTransform,
-} from "motion/react";
+import { motion, useAnimationFrame, useMotionTemplate, useMotionValue, useTransform } from "motion/react";
 import { useRef } from "react";
 import { cn } from "@/utils/cn";
 
