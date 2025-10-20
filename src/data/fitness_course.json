@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner's Fitness Foundations",
+      "slug": "beginners-fitness-foundations",
+      "description": "Learn the basics of fitness and exercise with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1517836357463-d25ddfcbf042?w=800&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Yoga for Beginners",
+      "slug": "yoga-for-beginners",
+      "description": "Start your wellness journey with foundational yoga skills taught by expert instructors.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Strength Training",
+      "slug": "advanced-strength-training",
+      "description": "Enhance your muscle building with advanced strength training techniques for intermediate to advanced learners.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1534438327276-ce333e0714f5?w=800&q=80"
+    },
+    {
+      "id": 4,
+      "title": "HIIT Workout Mastery",
+      "slug": "hiit-workout-mastery",
+      "description": "Master high-intensity interval training with our comprehensive course covering all skill levels.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1521575107034-e3fb92d318b0?w=800&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Cardio and Endurance Training",
+      "slug": "cardio-endurance-training",
+      "description": "Learn cardio exercises and build your endurance with this course designed for all levels.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Nutrition and Meal Planning",
+      "slug": "nutrition-meal-planning",
+      "description": "Dive into nutrition fundamentals with this introductory course on healthy eating and meal planning.",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80"
+    },
+    {
+      "id": 7,
+      "title": "Weight Loss Essentials",
+      "slug": "weight-loss-essentials",
+      "description": "Learn the essentials of sustainable weight loss to achieve your fitness goals.",
+      "price": 159.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1539667547295-1f72c6fb1d55?w=800&q=80"
+    },
+    {
+      "id": 8,
+      "title": "CrossFit Training",
+      "slug": "crossfit-training",
+      "description": "Master CrossFit workouts with our course designed for beginners to advanced athletes.",
+      "price": 169.99,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1583836332544-81e1e61e6305?w=800&q=80"
+    },
+    {
+      "id": 9,
+      "title": "Fitness History and Science",
+      "slug": "fitness-history-science",
+      "description": "Explore the science of fitness and how training methodologies have evolved over time.",
+      "price": 179.99,
+      "instructor": "Grace Lee",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1549576528-f72ff27e938d?w=800&q=80"
+    },
+    {
+      "id": 10,
+      "title": "Functional Fitness Training",
+      "slug": "functional-fitness-training",
+      "description": "Discover functional fitness techniques to improve your daily movement and overall strength.",
+      "price": 189.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1517836357463-d25ddfcbf042?w=800&q=80"
+    }
+  ]
+}
