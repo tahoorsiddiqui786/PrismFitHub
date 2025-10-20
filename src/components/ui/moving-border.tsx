@@ -66,6 +66,12 @@
 //     </>
 //   );
 // };
+"use client";
+
+
+
+export function Button({
+  // ... rest of code
 import {
   motion,
   useAnimationFrame,
